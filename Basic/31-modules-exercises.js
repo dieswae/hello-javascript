@@ -22,3 +22,10 @@ Vídeo: https://youtu.be/1glVfFxj8a4?t=22720
 // 9. Exporta una función, una constante y una clase desde una carpeta
 
 // 10. Importa una función, una constante y una clase desde un directorio diferente al anterior
+
+/* 
+
+Ya practicado en anteriores proyectos, 
+lo seguire practicando en futuros proyectos 
+
+*/
